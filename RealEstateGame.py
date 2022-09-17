@@ -9,6 +9,7 @@
 # The game continues until all players, but one, have run out of money. The last player with money is declared the winner.
 # This code has three classes: Player, Space and RealEstateGame which the game admin class. All data members is private.
 
+
 class Player:
     """Represent a player of the game and using the class RealEstateGame.
     It includes a private data members and stores the player info"""
