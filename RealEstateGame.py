@@ -1,5 +1,5 @@
 # Author: Vitaliy Tsupriyan
-# Github username: tsupriyv
+# Github username: Vitaliy2283
 # Date: 06/01/2022
 # Description: This is a project for Real Estate Game that allows two or more people to play a simplified version of the game Monopoly.
 # Players start at the "GO" space on the board. Players take turns rolling a single die (values 1-6), and moving around the board spaces.
